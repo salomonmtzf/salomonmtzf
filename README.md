@@ -5,7 +5,7 @@ Desarrollador Java Full-Stack
 
 - 🔭 Actualmente me encuentro realizando un **E-Commerce Full-Stack (Angular & Spring Boot)**
 
-- 👨‍💻 Todos los proyectos se encuentran disponibles en Mi Portfolio
+- 👨‍💻 Todos los proyectos se encuentran disponibles en Mi Portafolio
 
 - Será bienvenida cualquier sugerencia o comentario para cada repositorio
 
