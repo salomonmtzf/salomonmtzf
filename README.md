@@ -10,4 +10,4 @@ Desarrollador Java Full-Stack
 - Será bienvenida cualquier sugerencia o comentario para cada repositorio
 
 Algunas de las herramientas que utilizo:
-Angularjs, Bootstrap, CSS3, git, heroku, HTML5, Java, Javascript, Mysql, Postgresql, Postman, Spring Boot, Typescript
+Angularjs, Bootstrap, CSS3, git, HTML5, Java, Javascript, Mysql, Postgresql, Postman, Spring Boot, MVC
