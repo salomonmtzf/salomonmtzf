@@ -11,3 +11,5 @@ Desarrollador Java Full-Stack
 
 Algunas de las herramientas que utilizo:
 Angularjs, Bootstrap, CSS3, git, HTML5, Java, Javascript, Mysql, Postgresql, Postman, Spring Boot, MVC
+🧠 Languages and Tools:
+arduino bootstrap c cplusplus csharp css3 git html5 java javascript linux mysql nodejs python sqlite Visual Studio Code
